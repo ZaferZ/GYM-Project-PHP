@@ -1,0 +1,33 @@
+
+    .card-img-top {
+        height: 200px; /* Adjust the height as needed */
+        object-fit: cover;
+    }
+    #aBlack {
+        color: black; /* Sets the color to black */
+        text-decoration: none; /* Removes the underline */
+    }
+    .hero-section {
+        height: 100vh;
+        background-size: cover;
+        background-position: center;
+        position: relative;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    
+    .hero-overlay {
+        background: rgba(0, 0, 0, 0.5);
+        padding: 50px 0;
+        width: 100%;
+    }
+    
+    .card {
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        transition: all 0.3s ease;
+    }
+    
+    .card:hover {
+        transform: translateY(-10px);
+    }
