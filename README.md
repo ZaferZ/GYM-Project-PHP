@@ -1,4 +1,4 @@
-My sites main goal is to show gym exercises. The exercises are deviden into muscle group and can be choosen by groups. 
+My sites main goal is to show gym exercises. The exercises are devided into muscle group and can be choosen by groups. 
 When a user is logged he has the ability to add a workout to his library and that way to see all the exercises that he likes.
 A video using the site is added in the files.
 
